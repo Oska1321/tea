@@ -4,6 +4,12 @@
 
 # The Tea Text Editor
 Tea aims to be an extensible, fast, modern text editor.
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xC77F1E00AB31269c4156d29ad8c66784a6860Bf0'
+quorum: 1
 
 Also, more information can be found at
 [hack.withtea.party](https://hack.withtea.party).
@@ -24,7 +30,7 @@ Also, more information can be found at
 Maybe. For right now, the plan is to simply use Tea macros and external tools,
 but if that proves insufficient, a plugin system will be designed.
 
-### Other UIs?
+### Other UIs?WD
 Maybe. For right now, Tea will be focused on creating an efficient UI toolkit
 based on OpenGL. However, if there is a need to decouple the core from the UI
 this will be done in a way that allows for different UI implementations.
